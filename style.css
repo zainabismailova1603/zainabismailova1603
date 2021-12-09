@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+    width: 336px;
+    height: 236px;
+    border: 1px  solid #C4C4C4;
+    background: white;    
+}
+.projekt {
+    position: relative;
+    width: 1152px;
+    height: 878px;
+    
+    background: #FFFFFF;
+
+}
+.name {
+ 
+    position: relative;
+    width: 1152px;
+    height: 878px;
+    
+    background: #FFFFFF;   
+}
+
+   
+    
+  
+
