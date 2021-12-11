@@ -16,4 +16,4 @@
 // console.log(decimalNum);
 // const quote = "Anything's possible if you've got enough nerve.";
 
-// 
+// console.log(zainab);
